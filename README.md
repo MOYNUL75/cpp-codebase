@@ -1,4 +1,4 @@
-# cpp-codebase
+# CPP Codebase
 Welcome to **cpp-codebase**, a comprehensive repository of C++ programs, projects, and practice exercises. This repository is designed for learning, improving, and showcasing proficiency in C++ programming, covering everything from fundamental concepts to advanced problem-solving. A comprehensive C++ repository with programs, projects, and algorithms for learning, practice, and portfolio showcase.
 
 ---
