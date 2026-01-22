@@ -29,7 +29,70 @@ cpp-codebase/
 ├── dsa/ # Data Structures & Algorithms solutions
 ├── projects/ # Small projects & applications
 └── README.md # Project overview
+
+cpp-codebase/
+│
+├── basics/                # Basic syntax & fundamentals
+│   ├── input_output/
+│   ├── variables/
+│   ├── operators/
+│   ├── control_flow/
+│
+├── functions/             # Functions & recursion
+│   ├── functions_basic/
+│   ├── recursion/
+│
+├── oop/                   # Object-Oriented Programming
+│   ├── classes_objects/
+│   ├── constructors/
+│   ├── inheritance/
+│   ├── polymorphism/
+│   ├── abstraction/
+│   └── encapsulation/
+│
+├── stl/                   # Standard Template Library
+│   ├── containers/
+│   ├── iterators/
+│   ├── algorithms/
+│   └── functors/
+│
+├── dsa/                   # Data Structures & Algorithms
+│   ├── arrays/
+│   ├── linked_list/
+│   ├── stack/
+│   ├── queue/
+│   ├── tree/
+│   ├── graph/
+│   ├── sorting/
+│   └── searching/
+│
+├── memory_management/     # Pointers & memory
+│   ├── pointers/
+│   ├── dynamic_memory/
+│   └── smart_pointers/
+│
+├── file_handling/         # File I/O
+│   ├── text_files/
+│   └── binary_files/
+│
+├── exception_handling/    # Try-Catch
+│
+├── multithreading/        # Threads & concurrency
+│
+├── design_patterns/       # Software design patterns
+│   ├── singleton/
+│   ├── factory/
+│   └── observer/
+│
+├── projects/              # Mini & real-world projects
+│   ├── beginner/
+│   ├── intermediate/
+│   └── advanced/
+│
+└── README.md
+
 ```
+
 ---
 
 ## 🔹 Getting Started
