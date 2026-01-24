@@ -5,6 +5,9 @@ basics_03_variables.cpp
 basics_04_input_output.cpp
 basics_05_data_types.cpp
 basics_06_operators.cpp
+basics_07_strings.cpp
+basics_08_math.cpp
+
 
 
 basics_07_if_else.cpp
