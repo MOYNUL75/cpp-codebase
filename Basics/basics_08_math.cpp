@@ -29,6 +29,10 @@ int main(){
     double numToRound = 4.6;
     cout << numToRound << " rounded is: " << round(numToRound) <<endl;
 
+    //log() function
+    double numToLog = 10.0;
+    cout << "The natural logarithm of " << numToLog << " is: " << log(numToLog) << endl;
+
     // ceil() function
     double numToCeil = 4.2;
     cout << numToCeil << " ceiled is: " << ceil(numToCeil) << endl;
