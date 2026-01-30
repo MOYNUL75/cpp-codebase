@@ -9,12 +9,19 @@ basics_07_strings.cpp
 basics_08_math.cpp
 basics_09_boolean_Values.cpp
 basics_10_if_else.cpp
+basics_11_switch_case.cpp
+basics_12_while_loop.cpp
+basics_13_for_loop.cpp
 
+basics_14_break_continue.cpp
+basics_15_arrays.cpp
+basics_16_structures.cpp
+basics_17_enums.cpp
+basics_18_references.cpp
+basics_19_pointers.cpp
+basics_20_memory_management.cpp
 
-basics_08_switch_case.cpp
-basics_09_loops.cpp
-basics_10_break_continue.cpp
-basics_11_type_casting.cpp
+basics_14_type_casting.cpp
 
 🔹 functions/
 functions_01_function_basics.cpp
