@@ -80,7 +80,7 @@ int main(){
         cout<<endl;
     }
 
-    // The foreach Loop (Range-based for loop)
+    // The foreach Loop exxample 01 (Range-based for loop)
     /* Syntax:
          for (type variableName : arrayName) {
          // code block to be executed
@@ -92,6 +92,18 @@ int main(){
         cout <<" Number: " << numarray << endl;
     }
 
-    
+    // The foreach Loop example 02 (Range-based for loop)
+    string word ="Hello World";
+    for(char c: word){
+        cout << c << endl;
+    }
+
+ cout << "-----------------------------------" << endl;
+ 
+    // The foreach Loop example 03 (Range-based for loop)
+    for(char d : "C++ Programming"){
+        cout << d << endl;
+    }
+
     return 0;
 }
